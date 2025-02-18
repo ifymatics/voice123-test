@@ -11,4 +11,5 @@ export default defineConfig({
     environment: "jsdom",
     setupFiles: ["./src/setupTests.ts"],
   },
+  base: "/voice123-test/",
 });

@@ -19,6 +19,7 @@ const Paginator: React.FC<PaginationProps> = ({
   onPageChange,
 }) => {
   const handleChange = (event: React.ChangeEvent<unknown>, page: number) => {
+    console.log(event.preventDefault());
     onPageChange(page);
   };
 
