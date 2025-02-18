@@ -1,6 +1,6 @@
 # voice123-test
 
-Application for searching voice actors using Voice123 API.
+Application for searching voice actors using Voice123 API. [Go to DEMO](https://ifymatics.github.io/voice123-test/)
 
 ## Project setup
 
@@ -35,7 +35,7 @@ npm run test
 - Paginator Component. 15m
 - Audio player. 10m
 - README.md documentation. 5m
-- Deploy . 10m
+- Deployment [Demo](https://ifymatics.github.io/voice123-test/) . 20m
 
 ## Futture Improvements and Reccomendations
 
