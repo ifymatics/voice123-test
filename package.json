@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ifymatics.github.io/#",
+  "homepage": "https://ifymatics.github.io/voice123-test",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
