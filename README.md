@@ -27,12 +27,13 @@ npm run test
 - Exploring/Selecting needed components of material UI APIs. 20m
 - Project setup. 20m
 - Test Library setup. 10m
-- useHook implementation / tests. 30m
-- SearchBar Component / tests. 40m
+- useHook implementation / tests. 20m
+- SearchBar Component / tests. 30m
 - SearchResults Component / tests. 50m
 - Card Component / tests. 20m
 - Keyword-highlight Algorithm/Tests. 70m
 - Paginator Component. 15m
+- App Component / Tests. 50m
 - Audio player. 10m
 - README.md documentation. 5m
 - Deployment [Demo](https://ifymatics.github.io/voice123-test/) . 20m
