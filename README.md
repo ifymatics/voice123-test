@@ -24,7 +24,7 @@ npm run test
 
 - Checking out the Voice123 API 10m
 - Project planning 40m
-- Exploring/Selecting needed components of material UI APIs. 20m
+- Exploration/Selection of needed material UI APIs components. 20m
 - Project setup. 20m
 - Test Library setup. 10m
 - useHook implementation / tests. 20m
