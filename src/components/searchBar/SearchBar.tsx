@@ -12,7 +12,7 @@ const SearchBar: React.FC<SearchBarProps> = ({ onSearch }) => {
   const handleSearch = () => {
     if (search.trim() === "") return;
     onSearch(search);
-    setSearch("");
+    //setSearch("");
   };
 
   const handleKeyPress = (e: React.KeyboardEvent) => {
